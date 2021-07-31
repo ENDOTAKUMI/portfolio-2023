@@ -34,11 +34,13 @@ section {
 }
 
 #works__space {
-    text-align: center;
     display: flex;
     align-items: center;
     flex-wrap: wrap;
     justify-content: center; 
+}
+.works__item:hover {
+    opacity: 0.7;
 }
 
 .works__item img{
@@ -48,6 +50,7 @@ section {
 }
 
 .works__item__title {
+    margin-top:-14px;
 }
 
 #footer{
