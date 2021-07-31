@@ -32,6 +32,34 @@ section {
 #link_icon i {
     color: #ddd;
 }
+
+#works__space {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center; 
+}
+.works__item:hover {
+    opacity: 0.7;
+}
+
+.works__item img{
+    padding: 10px;
+    max-width: 400px;
+    width: 100%;
+}
+
+.works__item__title {
+    margin-top:-14px;
+}
+
+#footer{
+	color: #ddd;
+	padding:20px;
+    text-align: center;
+}
+
+
 /* ==========================
     ヘッダーに関する定義
 ========================== */
