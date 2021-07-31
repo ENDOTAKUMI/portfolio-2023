@@ -32,6 +32,13 @@ section {
 #link_icon i {
     color: #ddd;
 }
+
+#footer{
+	color: #ddd;
+	padding:20px;
+    text-align: center;
+}
+
 /* ==========================
     ヘッダーに関する定義
 ========================== */
