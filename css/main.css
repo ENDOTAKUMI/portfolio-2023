@@ -33,11 +33,29 @@ section {
     color: #ddd;
 }
 
+#works__space {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center; 
+}
+
+.works__item img{
+    padding: 10px;
+    max-width: 400px;
+    width: 100%;
+}
+
+.works__item__title {
+}
+
 #footer{
 	color: #ddd;
 	padding:20px;
     text-align: center;
 }
+
 
 /* ==========================
     ヘッダーに関する定義
