@@ -39,6 +39,11 @@ section {
     flex-wrap: wrap;
     justify-content: center; 
 }
+
+#works__space a {
+    text-decoration: none;
+}
+
 .works__item:hover {
     opacity: 0.7;
 }
@@ -51,6 +56,10 @@ section {
 
 .works__item__title {
     margin-top:-14px;
+}
+
+.works__item__content {
+    margin-top:-14px;   
 }
 
 .contact__div {
